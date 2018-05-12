@@ -1,0 +1,35 @@
+_repo: One-Day-at-a-Timeand-Other-Talks-on-Life-and-Religion_39309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alexander, Archibald
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '38961'
+    url: http://www.gutenberg.org/2009/agents/38961
+description: ''
+gutenberg_issued: '2012-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English'
+- !lcc 'BV'
+tableOfContents: A day at a time -- God in the wheels -- A triple best -- Finical
+  farming -- The doctor -- Well and now -- The "washen face" in war time -- The real
+  Martha -- Our unearned increment -- Smoking wicks -- Culpable goodness -- A khaki
+  virtue -- The overcoming of panic -- The day's darg -- Gashmu the gossip -- God
+  in front -- Unbelief kept quiet -- The equipment of joy -- The God of the unlovable
+  man -- Under the juniper tree -- Instructing the cabin boy -- God's door of hope
+  -- Nowadays -- Roundabout roads -- The extravagance of love -- The art of doing
+  without -- Wonder -- The fatherhood of God -- The unreturning brave -- The sacrament
+  of sunset.
+title: A Day at a Time, and Other Talks on Life and Religion
+url: http://www.gutenberg.org/ebooks/39309
